@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-import org.graalvm.compiler.core.common.type.ArithmeticOpTable.BinaryOp.Rem;
 
 public class Reverse_of_no {
     public static void main(String[] args) {

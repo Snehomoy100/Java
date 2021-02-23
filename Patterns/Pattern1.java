@@ -11,5 +11,6 @@ public class Pattern1 {
         for(int rows = 1; rows <= n; rows++) {
             System.out.println("*");
         }
+        input.close();
     }
 }

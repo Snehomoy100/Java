@@ -49,5 +49,20 @@ public class Data_types_demo {
             System.out.println("Again true");
         }
 
+        char c = 'a';
+        System.out.println(c);
+
+        c = 99;
+        System.out.println(c);
+
+        c = 64000;
+        System.out.println(c);
+
+        c = (char)68000;
+        System.out.println(c);
+
+        c = (char)(c + 2);
+        System.out.println(c);
+
     }
 }

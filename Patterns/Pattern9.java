@@ -24,6 +24,7 @@ public class Pattern9 {
         
             // exception handling for the extra start in the last line & also the loop will run 4 times.
 
+            
             int cst_1 = 1;
             if (row == n) {
                 cst_1 = 2;

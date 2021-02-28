@@ -31,5 +31,23 @@ public class Data_types_demo {
         System.out.println(a);
         System.out.println(f);
 
+        boolean bool = true;
+
+        // we can't store boolean vlaues like 0 or 1 like we do it C/C++
+
+        if(bool){
+            System.out.println("True");
+        } else{
+            System.out.println("False");
+        }
+
+        bool = false;
+
+        if(bool){
+            System.out.println("Again false");
+        } else{
+            System.out.println("Again true");
+        }
+
     }
 }

@@ -64,5 +64,10 @@ public class Data_types_demo {
         c = (char)(c + 2);
         System.out.println(c);
 
+        System.out.println(10 + 20 + "Hello" + 10 + 20);
+        System.out.println(2 + " " + 5);
+        System.out.println(2 + ' ' + 5);
+        System.out.println("Hello" + '\t' + "World");
+        System.out.println("Hello" + "\t" + "World");
     }
 }

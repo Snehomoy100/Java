@@ -7,6 +7,7 @@ public class Character {
         char ch = input.next().charAt(0);
        
         // print if the given ch is upper or lower or an invalid character
+        
         if (ch>=97 && ch<=122) {
             System.out.println("Lowercase");
         }else if (ch>=65 && ch<=90){

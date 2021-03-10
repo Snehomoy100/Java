@@ -18,6 +18,6 @@ public class Fibonacci {
             counter++;
         }
 
-        
+        input.close();        
     }
 }

@@ -16,7 +16,7 @@ public class Pattern4 {
             // cst = count of rows
 
             while (cst <= nst) {
-                System.out.println("*");
+                System.out.print("*");
                 cst++;
             }
             System.out.println();

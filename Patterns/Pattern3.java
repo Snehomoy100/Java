@@ -12,7 +12,7 @@ public class Pattern3 {
         while (row <= n) {
             int cst = 1;
             while (cst <= nst) {
-                System.out.println("*");
+                System.out.print("*");
                 cst++;
             }
             System.out.println();

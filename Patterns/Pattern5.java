@@ -18,14 +18,14 @@ public class Pattern5 {
             // for spaces
             int cst_1 = 1;
             while (cst_1 <= nsp) {
-                System.out.println(" ");
+                System.out.print(" ");
                 cst_1++;
             }
 
             // for stars
             int cst_2 = 1;
             while(cst_2 <= nst){
-                System.out.println("*");
+                System.out.print("*");
                 cst_2++;
             }
 

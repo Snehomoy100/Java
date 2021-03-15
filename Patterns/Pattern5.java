@@ -9,7 +9,7 @@ public class Pattern5 {
 
         int nst = 1;
         int nsp = (n - 1);
-        int row =1;
+        int row = 1;
 
         while (row <= n) {
 
@@ -35,5 +35,6 @@ public class Pattern5 {
             nst++;
             row++;
         }
+        input.close();
     }
 }
